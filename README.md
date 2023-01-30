@@ -1,2 +1,2 @@
-# cisco-starter-repo
-Jumping off point for Cisco's backend Forage program
+# cisco-starter
+Cisco Forage -- Front End Dev
